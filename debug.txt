@@ -1,0 +1,847 @@
+<pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_3e2.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "import___8f1678da-54c3-4615-88a4-0efc11b9ce16.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_3e7.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(55) "discountCard___83b8accf-8a55-435e-984d-70d0a41a5b08.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_3ec.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(55) "discountCard___0abb1ca9-856e-47cf-b745-f6cfbed9d83b.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_3f1.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "import___12cad483-f860-4215-b023-fadf0ef0c3ac.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_3f6.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "prices___6227111c-77d9-45e9-937b-6202eb71a725.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_3fb.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "import___7bc12c26-46a2-4d55-95bf-701de780578c.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_400.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "prices___52b7d392-c9c5-40e2-95f4-c4620125199f.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_405.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "import___7f0673b9-a36f-4ed0-b1c4-62eda1355942.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_40a.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "prices___46f3bab7-ac36-4c0f-8408-8918e141bc06.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_40f.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "import___c830c0d5-f543-445f-8a44-4917e3d5a476.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_414.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "prices___0ebb65f9-ea6f-46f2-b6d8-c363c0041ee2.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_419.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "import___39d72178-e1f2-4feb-820e-2e137163c663.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_41e.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "prices___d6448daf-35cf-43fc-b190-c138d42a4f16.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_423.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "import___d4a19fe9-a01e-4ae7-a71f-6d6cf9703a10.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_428.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "prices___d59f6e9c-83c5-49ee-9515-591b9d51735b.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(8) "complete"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_431.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "import___8f8090fd-fa23-4706-ba55-6f12d56c54ad.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_436.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(55) "discountCard___262b5def-c9c8-4125-9b35-d80140d429cc.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_56d.zip"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_571.zip"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_575.zip"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_579.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "prices___7c066d32-7033-4544-848d-b1fd665d0992.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_5cc.zip"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_5d0.zip"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_5d4.zip"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_5d8.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "prices___a80104af-b251-4d72-97e6-ffdad2f7f0a3.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_5f9.zip"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_5fd.zip"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_601.zip"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "init"
+  ["version"]=>
+  string(3) "3.1"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(4) "file"
+  ["filename"]=>
+  string(15) "v8_DDF7_605.zip"
+}
+</pre><pre>array(3) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(6) "import"
+  ["filename"]=>
+  string(49) "prices___b27306a2-49f9-415c-83a3-b4ef07c2ae90.xml"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(9) "checkauth"
+}
+</pre><pre>array(2) {
+  ["type"]=>
+  string(7) "catalog"
+  ["mode"]=>
+  string(8) "complete"
+}
+</pre>
